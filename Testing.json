@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "title": "Hva er hovedstaden i Japan?",
+      "answers": [
+        { "answer": "Seoul" },
+        { "answer": "Beijing" },
+        { "answer": "Tokyo", "correct": true },
+        { "answer": "Bangkok" }
+      ],
+      "helper": {
+        "text": "Hovedstaden er kjent for sin teknologi og kultur."
+      }
+    },
+    {
+      "title": "Hvilket planet i solsystemet er kjent for sine vakre ringer?",
+      "answers": [
+        { "answer": "Mars" },
+        { "answer": "Venus" },
+        { "answer": "Saturn", "correct": true },
+        { "answer": "Uranus" }
+      ],
+      "helper": {
+        "text": "Dette planeten er den nest største i solsystemet."
+      }
+    },
+    {
+      "title": "Hva er hovedstaden i Frankrike?",
+      "answers": [
+        { "answer": "London" },
+        { "answer": "Roma" },
+        { "answer": "Madrid" },
+        { "answer": "Paris", "correct": true }
+      ],
+      "helper": {
+        "text": "Hovedstaden er kjent for Eiffeltårnet."
+      }
+    },
+    {
+      "title": "Hva er høyeste fjell i verden?",
+      "answers": [
+        { "answer": "Mont Blanc" },
+        { "answer": "Mount Kilimanjaro" },
+        { "answer": "Mount Everest", "correct": true },
+        { "answer": "Andesfjellene" }
+      ],
+      "helper": {
+        "text": "Dette fjellet er en del av Himalaya-fjellkjeden."
+      }
+    }
+  ]
+}
